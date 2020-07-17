@@ -25,3 +25,7 @@ h1 {
 .menu-link :focus {
   background-color: #2196f3;
 }
+
+.btm:focus {
+  background-color: #2196f3;
+}
