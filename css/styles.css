@@ -1,4 +1,8 @@
-body {
-  font-family: "Raleway", sans-serif;
+.body {
   font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  line-height: 1, 56;
+  letter-spacing: 0.03em;
+
+  color: #212121;
 }
