@@ -23,6 +23,6 @@ h1 {
   color: #2196f3;
 }
 ,
-:focus {
+.menu-link :focus {
   color: #ffffff;
 }
