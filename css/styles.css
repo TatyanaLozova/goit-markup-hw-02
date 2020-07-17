@@ -6,7 +6,7 @@ body {
   color: #212121;
 }
 h1 {
-  color: #ffffff;
+  color: hsl(0, 46%, 50%);
 }
 .menu-link {
   font-family: "Roboto" sans-serif, 
