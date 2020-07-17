@@ -19,7 +19,10 @@ h1 {
   letter-spacing: 0.03em;
 }
 
-.menu-link:hover,
-:focus {
+.menu-link:hover {
   color: #2196f3;
+}
+,
+:focus {
+  color: #ffffff;
 }
