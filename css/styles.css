@@ -1,4 +1,4 @@
-.body {
+body {
   font-family: "Roboto", sans-serif;
   font-size: 18px;
   line-height: 1, 56;
@@ -7,4 +7,19 @@
 }
 h1 {
   color: #ffffff;
+}
+.menu-link {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1, 62;
+
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.menu-link:hover,
+:focus {
+  color: #2196f3;
 }
