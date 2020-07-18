@@ -120,26 +120,24 @@ color: #FFFFFF;
   color: rgba(255, 255, 255, 0.6);}
 
 
-/* ПРИСОединяйтесь
-font-family: Roboto;
-font-style: normal;
+
+.aside {
 font-weight: bold;
-font-size: 14px;
 line-height: 1.14;
-letter-spacing: 0.03em;
 text-transform: uppercase;
-
 color: #FFFFFF;
+}
 
-подписаться 
-font-family: Roboto;
-font-style: normal;
-font-weight: bold;
+.button {
 font-size: 16px;
 line-height: 1.87;
 display: flex;
 align-items: center;
 text-align: center;
 letter-spacing: 0.06em;
-
 color: #FFFFFF;
+}
+.button:focus,
+.button:hover {
+  color: #2196F3;
+} 
