@@ -56,8 +56,9 @@ color: #757575;
   }*/
 
 
-.btn:hover{color: #f5f4fa;}
- .btn:focus{background:#2196F3;}
+.btn:hover,
+ .btn:focus{background:#2196F3;
+color: #f5f4fa;}
   .btn{
  font-family: "Roboto" sans-serif, 
 font-style: normal;
