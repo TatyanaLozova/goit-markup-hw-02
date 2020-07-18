@@ -6,7 +6,7 @@ body {
   color: #212121;
 }
 h1 {
-  color: #ff5247;
+  color: #007c67;
 }
 .menu-link {
   font-family: "Roboto" sans-serif, 
@@ -25,7 +25,7 @@ h1 {
   color: #2196F3;
   }
 
-.btn {
+btn {
   background: #f5f4fa;
   border-radius: 4px;
 }
