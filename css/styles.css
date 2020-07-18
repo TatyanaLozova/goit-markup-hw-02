@@ -7,7 +7,7 @@ body {
   background: #FFFFFF;
 }
 h1 {
-  color: #007c67;
+  color: #501099;
 }
 .logo{
 font-family: "Raleway", sans-serif;
@@ -35,6 +35,8 @@ color: #000000
 .menu-list {
   list-style: none;
 }
+.menu-item { color: #757575;
+  }
 .menu-link:focus,
 .menu-link:hover {
   color: #2196F3;
