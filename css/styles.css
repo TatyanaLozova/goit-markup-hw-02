@@ -37,6 +37,11 @@ color: #000000
 }
 .menu-item { color: #757575;
   }
+  .menu-item:focus,
+  :hover {
+  color: #2196F3;
+  }
+
 .menu-link:focus,
 .menu-link:hover {
   color: #2196F3;
@@ -49,4 +54,14 @@ color: #000000
 btn {
   background: #f5f4fa;
   border-radius: 4px;
+}
+.subtitle{
+font-family: "Roboto" sans-serif, 
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+color: #212121;
+text-decoration: none;
 }
