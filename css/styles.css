@@ -138,6 +138,5 @@ letter-spacing: 0.06em;
 color: #FFFFFF;
 }
 .button:focus,
-.button:hover {
-  color: #2196F3;
-} 
+.button:hover {background:#2196F3;
+color: #f5f4fa;}
