@@ -132,6 +132,7 @@ color: #FFFFFF;
 
 .contacts-item {
   text-decoration: none;
+  font-style: normal;
   color: rgba(255, 255, 255, 0.6);
 }
 
