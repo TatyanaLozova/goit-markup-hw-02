@@ -136,7 +136,7 @@ align-items: center;
 text-align: center;
 letter-spacing: 0.06em;
 color: #FFFFFF;
+background:#2196F3
 }
 .button:focus,
-.button:hover {background:#2196F3;
-}
+.button:hover
