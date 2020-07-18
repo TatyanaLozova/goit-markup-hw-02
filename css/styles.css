@@ -23,8 +23,6 @@ color: #000000
   color: #2196F3;
 }
 
-
-
 .menu-link {
   font-family: "Roboto" sans-serif, 
   font-style: normal;
@@ -34,7 +32,7 @@ color: #000000
   letter-spacing: 0.02em;
   text-decoration: none;
 }
-.list {
+.menu-list {
   list-style: none;
 }
 .menu-link:focus,
@@ -42,6 +40,10 @@ color: #000000
   color: #2196F3;
   }
 
+
+.menu-list {
+
+}
 btn {
   background: #f5f4fa;
   border-radius: 4px;
