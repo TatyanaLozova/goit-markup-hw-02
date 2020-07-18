@@ -4,10 +4,25 @@ body {
   line-height: 1.56;
   letter-spacing: 0.03em;
   color: #212121;
+  background: #FFFFFF;
 }
 h1 {
   color: #007c67;
 }
+.logo{
+font-family: "Raleway", sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.19;
+letter-spacing: 0.03em;
+}
+.logo-part {
+  color: #2196F3;
+}
+
+
+
 .menu-link {
   font-family: "Roboto" sans-serif, 
   font-style: normal;
