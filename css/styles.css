@@ -103,29 +103,23 @@ color:  #757575;
 
 }
 .footer{
+font-family: "Roboto" sans-serif, 
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
   background-color: #2F303A;
   
 } 
 
-.contacts
-г. КИЕВ 
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 1.71;
-letter-spacing: 0.03em;
+.contacts {
 color: #FFFFFF;
+}
 
+.contacts-item {
+  color: rgba(255, 255, 255, 0.6);}
 
-/* меил 
-font-family: Roboto;
-font-style: normal;
-font-weight: normal;
-font-size: 14px;
-line-height: 1.71;
-letter-spacing: 0.03em;
-color: rgba(255, 255, 255, 0.6);
 
 /* ПРИСОединяйтесь
 font-family: Roboto;
