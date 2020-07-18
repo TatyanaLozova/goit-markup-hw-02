@@ -20,11 +20,9 @@ h1 {
 .list {
   list-style: none;
 }
+.menu-link:focus,
 .menu-link:hover {
-  background-color: #2196F3;},
-
-.menu-link:focus {
-  color:#2196F3;
+  color: #2196F3;
   }
 
 .btn {
