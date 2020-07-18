@@ -35,7 +35,14 @@ color: #000000
 .menu-list {
   list-style: none;
 }
-.menu-item { color: #757575;
+.menu-item {
+font-family: "Roboto" sans-serif, 
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14px;
+letter-spacing: 0.02em; 
+color: #757575;
   }
   .menu-item:focus,
   :hover {
@@ -47,14 +54,12 @@ color: #000000
   color: #2196F3;
   }
 
-
-.menu-list {
-
 }
-btn {
+/*btn {
   background: #f5f4fa;
   border-radius: 4px;
-}
+}*/
+
 .subtitle{
 font-family: "Roboto" sans-serif, 
 font-style: normal;
