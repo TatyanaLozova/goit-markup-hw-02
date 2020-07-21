@@ -198,6 +198,6 @@ letter-spacing: 0.06em;
 color: #FFFFFF;
 background:#2196F3
 }
-.button:focus {background:#2196F3;
-color: #f5f4fa;},
-.button:hover
+.button:focus,
+ .button:hover {background:#2196F3;
+color: #F5F4FA;}
