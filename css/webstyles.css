@@ -201,9 +201,9 @@ align-items: center;
 text-align: center;
 letter-spacing: 0.06em;
 color: var(--part-txt-color);
-background:var(--accent-bg-color)#2196F3
+background:var(--accent-bg-color);
 }
 .button:focus,
- .button:hover {background:var(--accent-bg-color)#2196F3;
+ .button:hover {background:var(--accent-bg-color);
 color: var(--features-bg-color);
 }
