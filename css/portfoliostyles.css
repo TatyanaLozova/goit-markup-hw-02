@@ -1,13 +1,33 @@
+:root {
+   --main-txt-color: #212121;
+   --part-txt-color: #ffffff;
+  --accent-color: #2196f3;
+  --main-bg-color: #ffffff;
+  --sec-txt-color: #757575;
+
+}
+  /*
+    --sec-bg-color: #f5f4fa;
+    --footer-bg-color: #2f303a;
+  
+    --features-bg-color: #f5f4fa;
+    --main-txt-color: #212121;
+    --sec-txt-color: #757575;
+    --over-txt-color: #ffffff;
+    */
+}
+
+
 body {
   font-family: "Roboto", sans-serif;
   font-size: 18px;
   line-height: 1.56;
   letter-spacing: 0.03em;
-  color: #212121;
-  background: #FFFFFF;
+  color: var(--main-txt-color);
+  background: var(--main-bg-color);
 }
 .caption {
-  color: #FFFFFF;
+  color: var(--part-txt-color);
 ;
 }
 .logo{
@@ -18,7 +38,6 @@ font-size: 26px;
 line-height: 1.19;
 letter-spacing: 0.03em;
 text-decoration: none;
-color: #000000
 }
 .logo-part {
   color: #2196F3;
